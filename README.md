@@ -1,7 +1,7 @@
 # IBM-Project-21493-1659781484
-Statistical Machine Learning Approaches to Liver Disease Prediction
+# Statistical Machine Learning Approaches to Liver Disease Prediction
 
-Team members- Aruljeevika M,Jeno J,Divyabharathi T,Iswarya M
+Team members- Arul Jeevika M, Divyabharathi T, Iswarya M, Jeno J
 
 Industry Mentor- Nidhi
 
